@@ -6,4 +6,4 @@ Un script bloquant les pubs Spotify et pouvant être injecté via une extension 
 En plus de désactiver le son lorsqu'une pub est en cours, le script cache également le bouton "Passer à Premium" et le lien "Télécharger l'appli".
 
 ## Est-ce qu'il faut configurer autre chose ?
-Oui, une extension permettant d'injecteur du JavaScript pour votre navigateur si vous n'utilisez pas d'application Electron.
+Oui, une extension permettant d'injecter du JavaScript pour votre navigateur si vous n'utilisez pas d'application Electron.
